@@ -1,0 +1,20 @@
+[
+  {"question": "What is the accuracy of the PT-200?", "expected_page": 2, "expected_answer": "0.075"},
+  {"question": "What output signal does the transmitter provide?", "expected_page": 2, "expected_answer": "4-20 mA"},
+  {"question": "What supply voltage range is required?", "expected_page": 2, "expected_answer": "10.5"},
+  {"question": "What is the ingress protection rating?", "expected_page": 2, "expected_answer": "IP67"},
+  {"question": "What is the overpressure limit?", "expected_page": 2, "expected_answer": "2 times"},
+  {"question": "Which diaphragm material should be used for seawater?", "expected_page": 1, "expected_answer": "Hastelloy"},
+  {"question": "What torque should the process connection be tightened to?", "expected_page": 3, "expected_answer": "25 Nm"},
+  {"question": "Where should the cable shield be grounded?", "expected_page": 3, "expected_answer": "control-room"},
+  {"question": "What is the maximum loop resistance with a 24 V supply?", "expected_page": 3, "expected_answer": "614"},
+  {"question": "How often should the transmitter be calibrated in the field?", "expected_page": 4, "expected_answer": "12 months"},
+  {"question": "How do I perform a zero adjustment?", "expected_page": 4, "expected_answer": "3 seconds"},
+  {"question": "What does error code E03 mean?", "expected_page": 5, "expected_answer": "Supply voltage low"},
+  {"question": "What does a fixed output of 3.6 mA indicate?", "expected_page": 5, "expected_answer": "internal failure"},
+  {"question": "How often should the housing seals be inspected?", "expected_page": 6, "expected_answer": "6 months"},
+  {"question": "Up to which SIL level is the device suitable?", "expected_page": 6, "expected_answer": "SIL 2"},
+  {"question": "What is the warranty period?", "expected_page": 6, "expected_answer": "24 months"},
+  {"question": "What is the price of the PT-200?", "expected_page": null, "expected_answer": null},
+  {"question": "Does the PT-200 support Bluetooth configuration?", "expected_page": null, "expected_answer": null}
+]
